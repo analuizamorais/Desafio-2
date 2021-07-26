@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "Café Baggio Caramelo",
+            "photo": "https://m.media-amazon.com/images/I/71-bUmSzbrL._AC_UL320_.jpg",
+            "description": "Café torrado e moído aroma de caramelo Baggio, 250g",
+            "price": 19.90
+        },
+        {
+            "id": 2,
+            "name": "Café Santo Grão",
+            "photo": "https://m.media-amazon.com/images/I/616tIxobFwS._AC_UL320_.jpg",
+            "description": "Café especial Santo Grão, Sul de Minas Gerais, 250g",
+            "price": 16.65
+        },
+        {
+            "id": 3,
+            "name": "Café Pronova",
+            "photo": "https://m.media-amazon.com/images/I/71va47Jb7iL._AC_UL320_.jpg",
+            "description": "Café gourmet especial Arábica moído Montanhas do Espírito Santo, 500g",
+            "price": 21.06
+        },
+        {
+            "id": 4,
+            "name": "Café Santa Mônica",
+            "photo": "https://m.media-amazon.com/images/I/710liXyayoS._AC_UL320_.jpg",
+            "description": "Café gourmet moído válvula tin tie, 250g",
+            "price": 15.80
+        }
+    ]
+}
